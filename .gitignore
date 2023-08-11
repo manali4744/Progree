@@ -1,3 +1,9 @@
 env/
 **/__font/
 **/json/
+.zip
+**/ChatterBot/
+**/ambignq_light/
+*.sqlite3
+*.txt
+*.pyc
